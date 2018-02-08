@@ -1,0 +1,17 @@
+{
+  "name": "token paradox",
+  "version": "1.0.0",
+  "description": "Paradox Token",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.0.0-beta.15",    
+  }
+}

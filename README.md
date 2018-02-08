@@ -1,2 +1,1 @@
-# Paradox-Token
-The Paradox Network Token (PRX)
+# Paradox-Token-master
